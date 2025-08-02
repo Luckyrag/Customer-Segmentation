@@ -30,13 +30,19 @@ This project focuses on performing customer segmentation based on **Annual Incom
 ### 1. K-Means Clustering
 - Used **Elbow Method** to determine optimal clusters (`k = 5`)  
 - Visualized results with cluster centers  
-- Suitable for **spherical** & **compact** clusters  
+- Suitable for **spherical** & **compact** clusters
+- <p align="center">
+  <img src="k-means.png" alt="k-mean Page" width="700">
+</p>
 
 ### 2. DBSCAN Clustering
 - Density-based algorithm  
 - Does **not** require predefined number of clusters  
 - Handles **noise** & **outliers** better  
-- Visualized results using custom 2D plots  
+- Visualized results using custom 2D plots
+-<p align="center">
+  <img src="DBSCAn.png" alt="k-mean Page" width="700">
+</p> 
 
 ---
 
